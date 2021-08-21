@@ -1,0 +1,1 @@
+# Activer-le-QR-code
