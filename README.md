@@ -1,1 +1,1 @@
-# Script Mirkotik - MNA
+# Script Mikrotik By MNA
