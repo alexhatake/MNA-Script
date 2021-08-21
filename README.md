@@ -1,1 +1,1 @@
-# Activer-le-QR-code
+# Script Mirkotik - MNA
