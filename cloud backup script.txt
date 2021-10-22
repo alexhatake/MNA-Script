@@ -1,0 +1,8 @@
+/system backup cloud print;
+delay 3s;
+:log info message="Backup : Phase 1 ---> print OK";
+/system backup cloud remove-file number=0;
+delay 2s;
+:log info message="Backup : Phase 2 ---> remove OK";
+/system backup cloud upload-file action=create-and-upload password=123456;
+:log info message="Backup : Phase 3 --->  OK";
