@@ -5,3 +5,4 @@
 * [Bloquer le partage de connexion](https://github.com/alexhatake/MNA-Script/blob/main/Hotspot%20Script/Bloquer%20le%20partage%20de%20connexion.rsc)
 * [Authentification avec QR code](https://github.com/alexhatake/MNA-Script/blob/main/Hotspot%20Script/Authentification%20avec%20QR%20code.rsc)
 * [Bypasser un Hotspot](https://github.com/alexhatake/MNA-Script/blob/main/Hotspot%20Script/Bypasser%20un%20Hotspot.rsc)
+* [Cloud Backup Script](https://github.com/alexhatake/MNA-Script/blob/main/cloud%20backup%20script.txt)
